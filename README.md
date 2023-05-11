@@ -4,7 +4,7 @@
 ## ¿Qué es la Twitter Follow Card?
 La Twitter Follow Card es una tarjeta que aparece en Twitter para seguir a una cuenta. Esta tarjeta muestra información sobre la cuenta que te sigue, como su nombre, foto de perfil y nombre de usuario.
 
-!(display.png)
+![display.png]
 > imagen de la recreacion del componente
 
 ## ¿Cómo funciona nuestra implementación?
