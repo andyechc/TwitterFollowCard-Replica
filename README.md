@@ -14,12 +14,6 @@ Nuestra implementación es una clonación fiel de la Twitter Follow Card en Reac
 * **Props**: Utilizamos props para pasar datos entre los componentes y personalizar su comportamiento.
 * **State**: Utilizamos state para manejar el estado de los componentes y actualizar la interfaz de usuario en respuesta a eventos.
 
-## ¿Cómo puedo correr este proyecto en mi computadora?
-Para correr este proyecto en tu computadora, sigue los siguientes pasos:
-
-Clona este repositorio en tu computadora utilizando el siguiente comando en tu terminal: `git clone https://github.com/4nd1-dev/TwitterFollowCard-Replica.git`
-Instala las dependencias del proyecto utilizando el siguiente comando: `npm install`
-Corre el proyecto utilizando el siguiente comando: `npm start`
 
 ## Conclusión
 En resumen, este repositorio es una clonación de la Twitter Follow Card en React. Utilizamos componentes, props y state para lograr una implementación fiel de la tarjeta. Puedes correr este proyecto en tu computadora o utilizar los componentes en tu propio proyecto. ¡Esperamos que te sea útil! 😎
